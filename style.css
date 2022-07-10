@@ -1,0 +1,57 @@
+
+.body.pie{
+    fore-color: #404040 ;
+ 
+    font-size: 11pt;
+ }
+ h1{
+    fore-color: #A4A400;  
+    background-color: #f1efef;
+ }
+.link{
+    color: #A4A400;
+ }
+
+ *{
+   margin: 0;
+}
+.body.index{
+   background-color: aqua;
+   
+}
+
+.nav{
+background-color: aquamarine;
+padding: 0.5em;
+}
+.nav-link{
+   font-size: 1.5em;
+   text-decoration: none;
+   margin-right: 0.5em;
+   border: rgb(97, 97, 97) solid 0.2em;
+   padding: 0.1em;
+}
+.nav-link:hover{
+   background-color: rgb(252, 252, 252);
+   color: rgb(9, 174, 240);
+}
+.index{
+   background-color: rgb(19, 241, 93);
+   
+}
+#h1{
+   text-align: center;
+}
+.background{
+   background-color: rgb(255, 243, 80);
+}
+#h1{
+   color: #e823ce;
+}
+.h2{
+   text-align: center;
+   color: #e8b023;
+}
+.p{
+   color: #5653f5 ;
+}
